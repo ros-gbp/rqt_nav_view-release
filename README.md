@@ -1,3 +1,26 @@
+## rqt_nav_view (melodic) - 0.5.7-0
+
+The packages in the `rqt_nav_view` repository were released into the `melodic` distro by running `/usr/bin/bloom-release rqt_nav_view --new-track -r melodic` on `Sat, 28 Apr 2018 18:47:21 -0000`
+
+The `rqt_nav_view` package was released.
+
+Version of package(s) in repository `rqt_nav_view`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_nav_view.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.7-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.3.9`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.40`
+
+
 ## rqt_nav_view (kinetic) - 0.5.7-0
 
 The packages in the `rqt_nav_view` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic rqt_nav_view --edit` on `Fri, 28 Apr 2017 19:56:14 -0000`
