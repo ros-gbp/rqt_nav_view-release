@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8.3)
+cmake_minimum_required(VERSION 3.5)
 project(rqt_nav_view)
 # Load catkin and all dependencies required for this package
 find_package(catkin REQUIRED)
@@ -9,6 +9,6 @@ install(FILES plugin.xml
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 )
 
-install(PROGRAMS scripts/rqt_nav_view
+catkin_install_python(PROGRAMS scripts/rqt_nav_view
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
