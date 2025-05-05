@@ -1,3 +1,26 @@
+## rqt_nav_view (noetic) - 0.5.8-1
+
+The packages in the `rqt_nav_view` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic rqt_nav_view` on `Mon, 05 May 2025 17:07:36 -0000`
+
+The `rqt_nav_view` package was released.
+
+Version of package(s) in repository `rqt_nav_view`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_nav_view.git
+- release repository: https://github.com/ros-gbp/rqt_nav_view-release.git
+- rosdistro version: `0.5.7-1`
+- old version: `0.5.7-1`
+- new version: `0.5.8-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rqt_nav_view (noetic) - 0.5.7-1
 
 The packages in the `rqt_nav_view` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic rqt_nav_view` on `Tue, 17 Mar 2020 18:22:05 -0000`
